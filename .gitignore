@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm IDE files
+.idea/
+*.iml
+misc.xml
+modules.xml
+vcs.xml
+inspectionProfiles/
+profiles_settings.xml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
